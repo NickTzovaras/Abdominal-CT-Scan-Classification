@@ -1,6 +1,6 @@
 # AI in Healthcare – Abdominal CT Scan Classification
 
-Course assignment for **Artificial Intelligence in Healthcare** (NTUA, 2024–2025), applying deep learning to medical imaging using the Abdominal CT Scans dataset (Kaggle).
+Course assignment for **Artificial Intelligence in Healthcare** (NTUA, Academic Year 2024–2025), applying deep learning to medical imaging using the Abdominal CT Scans dataset (Kaggle).
 
 ## Overview
 - **Dataset:** Abdominal CT Scans (Kaggle)  
